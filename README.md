@@ -1,4 +1,4 @@
-# Engineering Wiki
+# :building_construction: Engineering Wiki
 
 All things engineering: processes, diagrams, best practices, setup guidelines, and more!
 
